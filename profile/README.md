@@ -1,4 +1,7 @@
-<h1 align="center">🀄 Mahtools 🀄</h1>
+<div align="center">
+  <img src="./mahtoolslogo.png" alt="mahtools logo">
+  <h1>🀄 Mahtools 🀄</h1>
+</div>
 
 ## ℹ️ About the Mahtools group
 Mahtools is a public group dedicated to writing open source tools for [Riichi Mahjong](https://en.wikipedia.org/wiki/Japanese_mahjong) as well as select other board games such as [Koi Koi](https://en.wikipedia.org/wiki/Koi-Koi). 
