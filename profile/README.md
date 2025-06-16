@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./mahtoolslogo.png" alt="mahtools logo">
+  <img src="./logomahtools.png" height="128" alt="mahtools logo">
   <h1>🀄 Mahtools 🀄</h1>
 </div>
 
